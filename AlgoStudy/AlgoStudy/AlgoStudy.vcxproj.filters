@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gitTest.cpp">
+    <ClCompile Include="15649 N과M.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
