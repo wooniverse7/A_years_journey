@@ -30,5 +30,8 @@
     <ClCompile Include="15650 N과M(2).2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15654 N과M(5)cpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
