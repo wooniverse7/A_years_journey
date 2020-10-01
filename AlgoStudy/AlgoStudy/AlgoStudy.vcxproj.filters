@@ -21,5 +21,14 @@
     <ClCompile Include="코드">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15650 N과M 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15651 N과M(3).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15650 N과M(2).2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
