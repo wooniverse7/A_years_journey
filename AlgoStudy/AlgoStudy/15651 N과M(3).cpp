@@ -1,5 +1,6 @@
 #include<iostream>
-
+//순열 : 나열, 팩토리얼 nPr
+//조합 : n개 뽑기, nCr
 using namespace std;
 
 bool c[10]; int a[10];
